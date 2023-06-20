@@ -1,4 +1,3 @@
-# AstroSimulations
 ![AstronautGIF](https://github.com/ThecoderPinar/AstroSimulations/assets/107423523/d586f360-ea04-4022-ab17-42ff045e2bb2)
 
 
